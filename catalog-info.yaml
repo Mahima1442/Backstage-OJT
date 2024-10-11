@@ -4,8 +4,8 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    jenkins.io/github-folder: 'Mahima1442/snyk_repo' # deprecated
-    # jenkins.io/job-full-name: 'folder-name/project-name' # use this instead
+    # jenkins.io/github-folder: 'Mahima1442/snyk_repo' # deprecated
+    jenkins.io/job-full-name: 'Mahima1442/snyk_repo' # use this instead
 
 spec:
   type: service
