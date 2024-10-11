@@ -4,6 +4,7 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
+    github.com/project-slug: Mahima1442/Backstage-OJT
     # jenkins.io/github-folder: 'Mahima1442/snyk_repo' # deprecated
     jenkins.io/job-full-name: 'Mahima1442/snyk_repo' # use this instead
 
