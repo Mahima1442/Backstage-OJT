@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 'Flowsource'
+  description: 'Cognizant flowsource plugin developer - OJT Evalution'
+  annotations:
+    jenkins.io/github-folder: 'folder-name/project-name' # deprecated
+    jenkins.io/job-full-name: 'folder-name/project-name' # use this instead
+
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Mahima
