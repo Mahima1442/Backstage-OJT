@@ -4,7 +4,7 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    flowsource/jenkins-pipelines: 'ticket-booking-application' # use this instead
+    flowsource/jenkins-pipelines: pipeline-1 # use this instead
 
 spec:
   type: website
