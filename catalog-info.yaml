@@ -5,8 +5,8 @@ metadata:
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
     github.com/project-slug: Mahima1442/Backstage-OJT
-    # jenkins.io/github-folder: 'Mahima1442/snyk_repo' # deprecated
-    jenkins.io/job-full-name: 'MahimaChoudhary/Backstage jenkins plugin' # use this instead
+    jenkins.io/github-folder: 'MahimaChoudhary/Backstage-OJT/main' # deprecated
+    # jenkins.io/job-full-name: 'MahimaChoudhary/Backstage jenkins plugin' # use this instead
 
 spec:
   type: service
