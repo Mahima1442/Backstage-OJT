@@ -7,6 +7,6 @@ metadata:
     flowsource/jenkins-pipelines: 'ticket-booking-application' # use this instead
 
 spec:
-  type: service
+  type: website
   lifecycle: experimental
   owner: Mahima
