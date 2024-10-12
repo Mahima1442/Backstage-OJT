@@ -4,8 +4,6 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    github.com/project-slug: Mahima1442/Backstage-OJT
-    # jenkins.io/github-folder: 'MahimaChoudhary/Backstage-OJT/main' # deprecated
     flowsource/jenkins-pipelines: ticket-booking-application # use this instead
 
 spec:
