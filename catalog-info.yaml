@@ -4,7 +4,7 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    flowsource/github-repo-name: Backstage-OJT
+    flowsource/github-repo-name: Mahima1442/Backstage-OJT
 
 spec:
   type: website
