@@ -4,7 +4,7 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    flowsource/jenkins-pipelines: backstage-jenkins-plugin # use this instead
+    'jenkins.io/job-full-name': teamA/artistLookup-build
 
 spec:
   type: website
