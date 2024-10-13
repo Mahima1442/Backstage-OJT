@@ -4,7 +4,7 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    flowsource/github-workflows: run-since-updater # use this instead
+    flowsource/github-workflows: 'run-since-updater' # use this instead
 
 spec:
   type: website
