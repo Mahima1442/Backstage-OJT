@@ -9,7 +9,7 @@ jenkins:
   baseUrl: https://jenkins.cloudsprint.io/
   username: backstage-service
   projectCountLimit: 100
-  apiKey: 11ddd4423c1586bb919504d9d609e3f067
+  apiKey: 11ddd4423c1586bb919504d9d609e3f067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
 
 spec:
   type: website
