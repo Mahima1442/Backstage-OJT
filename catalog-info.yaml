@@ -4,7 +4,12 @@ metadata:
   name: 'Flowsource'
   description: 'Cognizant flowsource plugin developer - OJT Evalution'
   annotations:
-    github-repo-name: Mahima1442/Backstage-OJT
+    jenkins.io/job-full-name: 
+jenkins:
+  baseUrl: https://jenkins.cloudsprint.io/
+  username: backstage-service
+  projectCountLimit: 100
+  apiKey: 11ddd4423c1586bb919504d9d609e3f067
 
 spec:
   type: website
