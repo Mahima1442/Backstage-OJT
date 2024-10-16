@@ -5,7 +5,7 @@ metadata:
   description: 'a description'
   annotations:
     jenkins.io/github-folder: 'MahimaChoudhary/Backstage-plugin' # deprecated
-    jenkins.io/job-full-name: 'MahimaChoudhary/Backstage-plugin' # use this instead
+    jenkins.io/job-full-name: 'automated-weekly-changelog' # use this instead
 
 spec:
   type: service
